@@ -1,2 +1,2 @@
-# gaytri-bot
-A slack-bot for answering company wide questions.
+Slack bot for workplace
+=======================

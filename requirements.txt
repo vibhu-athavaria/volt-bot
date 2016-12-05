@@ -1,0 +1,6 @@
+requests
+Django==1.10
+pyyaml
+websocket-client
+slackclient
+

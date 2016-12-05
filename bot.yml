@@ -1,0 +1,10 @@
+name: Volt
+author: Vibhu Athavaria
+author_avatar: images/volt_bot.jpg
+email: vibhu.athavaria@gmail.com
+description: A bot who can answer all workplace related questions.
+avatar: images/volt.jpg
+slackscopes:
+  - bot
+  - commands
+  - incoming-webhook
